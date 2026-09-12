@@ -3,6 +3,7 @@
   "owner": { "name": "Wilson" },
   "plugins": [
     { "name": "seo-strategist", "source": "./seo-strategist" },
-    { "name": "data-analyst", "source": "./data-analyst" }
+    { "name": "data-analyst", "source": "./data-analyst" },
+    { "name": "ad-creative-director", "source": "./ad-creative-director" }
   ]
 }
