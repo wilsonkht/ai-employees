@@ -1,4 +1,3 @@
-{ "name": "ai-employees", "owner": { "name": "Wilson" }, "plugins": [ { "name": "seo-strategist", "source": "./seo-strategist" } ] } 
 {
   "name": "ai-employees",
   "owner": { "name": "Wilson" },
